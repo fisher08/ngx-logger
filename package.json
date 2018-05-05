@@ -72,5 +72,5 @@
     "@angular/core": "^6.0.0-rc.6",
     "rxjs": "^6.0.0"
   },
-  "main": "dist/bundles/ngx-logger.umd.js"
+  "main": "dist/ngx-logger/bundles/ngx-logger.umd.js"
 }
